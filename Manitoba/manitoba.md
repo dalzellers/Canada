@@ -1,0 +1,3 @@
+#Manitoba
+
+Capital City: Winnipeg
