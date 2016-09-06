@@ -8,3 +8,7 @@ Table of Contents
 3. Nova Scotia
 4. British Columbia
 5. Alberta
+
+Data contained in each file:
+1. Capital city
+2. Population
