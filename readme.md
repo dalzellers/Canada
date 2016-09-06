@@ -12,3 +12,5 @@ Table of Contents
 Data contained in each file:
 1. Capital city
 2. Population
+3. Land Area
+4. Date Entered
